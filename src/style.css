@@ -1,1 +1,20 @@
-/* styles go here */
+.fieldset_box {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.form_field {
+  display: block;
+}
+
+.last {
+  padding-top: 5px;
+}
+
+.first {
+  padding-bottom: 5px;
+}
+
+.middle {
+  padding: 5px 0;
+}
